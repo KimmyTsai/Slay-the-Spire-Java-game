@@ -22,7 +22,7 @@ This project is a card adventure game inspired by the popular game "Slay the Spi
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/KimmyTsai/PD2-final.git
+    git clone https://github.com/KimmyTsai/Slay-the-Spire-Java-game.git
     ```
 
 2. **Set Up Java Environment**:
@@ -41,7 +41,7 @@ This project is a card adventure game inspired by the popular game "Slay the Spi
 
 5. **Run the Game**:
     - You can run the game directly from VS Code.
-    - Locate the `windowDemo.java` file in the `PD2-final` directory.
+    - Locate the `windowDemo.java` file in the `Slay-the-Spire-Java-game` directory.
     - Right-click on `windowDemo.java` and select `Run Java`.
 
 ## Resources
@@ -62,8 +62,8 @@ Please ensure you comply with the licensing terms of these resources.
 
 ## Project Structure
 
-- `PD2-final`: Contains the main source code for the game.
-- `PD2-final/comsimple`: Contains the simple battle process, source code of each card and the test code.
+- `Slay-the-Spire-Java-game`: Contains the main source code for the game.
+- `Slay-the-Spire-Java-game/comsimple`: Contains the simple battle process, source code of each card and the test code.
 
 ## Acknowledgements
 
